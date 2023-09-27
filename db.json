@@ -1,0 +1,10 @@
+{
+    "libros":[{
+      "id":1,
+      "libro":"HP",
+      "fecha" : "2023",
+      "autor" : "J.K Rowling"
+    }],
+    "casa":[],
+    "papeles":[]
+  }
